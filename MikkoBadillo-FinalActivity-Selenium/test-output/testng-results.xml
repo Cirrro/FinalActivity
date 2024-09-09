@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-13T08:05:11 PST" name="Default suite" finished-at="2023-11-13T08:08:10 PST" duration-ms="179346">
+    <groups>
+    </groups>
+    <test started-at="2023-11-13T08:05:11 PST" name="Default test" finished-at="2023-11-13T08:08:10 PST" duration-ms="179346">
+      <class name="mikko.tests.SeleniumDemo">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mikko.tests.SeleniumDemo@614ca7df]" started-at="2023-11-13T08:05:11 PST" name="setUp" finished-at="2023-11-13T08:05:15 PST" duration-ms="4105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUpBeforeMethod()[pri:0, instance:mikko.tests.SeleniumDemo@614ca7df]" started-at="2023-11-13T08:05:15 PST" name="setUpBeforeMethod" finished-at="2023-11-13T08:05:15 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="runTests()[pri:0, instance:mikko.tests.SeleniumDemo@614ca7df]" started-at="2023-11-13T08:05:15 PST" name="runTests" finished-at="2023-11-13T08:08:09 PST" duration-ms="174593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTests -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mikko.tests.SeleniumDemo@614ca7df]" started-at="2023-11-13T08:08:09 PST" name="tearDown" finished-at="2023-11-13T08:08:10 PST" duration-ms="603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mikko.tests.SeleniumDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
